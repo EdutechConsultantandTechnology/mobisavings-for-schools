@@ -6,6 +6,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* Global styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
 
 /* Set up basic typography */
 body {
