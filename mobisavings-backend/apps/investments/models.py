@@ -23,3 +23,4 @@ class Investment(models.Model):
 
     def __str__(self):
         return f"Investment of {self.amount_invested} by {self.user.username} in {self.investment_opportunity.title}"
+
