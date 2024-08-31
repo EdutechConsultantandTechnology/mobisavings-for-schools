@@ -15,6 +15,7 @@ import AdminDashboard from './pages/AdminDashboard';
 import LoanPage from './pages/LoanPage';
 import './styles.css';
 import './styles.css';  // Importing global styles
+import './styles.css';  // Importing global styles
 
 const App = () => {
   return (
