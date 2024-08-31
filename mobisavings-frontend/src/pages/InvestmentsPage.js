@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './InvestmentsPage.css'; // Ensure to create a corresponding CSS file for styling
+import '../pages/investments.css';  // Importing investments page-specific styles
 
 const InvestmentsPage = () => {
   const [investments, setInvestments] = useState([]);
