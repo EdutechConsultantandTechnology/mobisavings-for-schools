@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import Header from '../components/Header';  // Importing Header component
 import Button from '../components/Button';  // Importing Button component
 import './HomePage.css';  // Importing styles specific to HomePage
+import '../pages/home.css';  // Importing home page-specific styles
 
 const HomePage = () => {
   return (
