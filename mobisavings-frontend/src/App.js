@@ -13,6 +13,7 @@ import InvestmentsPage from './pages/InvestmentsPage';
 import EducationPage from './pages/EducationPage';
 import AdminDashboard from './pages/AdminDashboard';
 import LoanPage from './pages/LoanPage';
+import './styles.css';
 
 const App = () => {
   return (
